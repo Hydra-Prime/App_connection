@@ -1,4 +1,1 @@
-{
-    "for_google_playstore": true,
-    "after_version_code": 35
-}
+ewogICAgImZvcl9nb29nbGVfcGxheXN0b3JlIjogdHJ1ZSwKICAgICJhZnRlcl92ZXJzaW9uX2NvZGUiOiAzNQp9
