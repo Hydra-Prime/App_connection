@@ -1,0 +1,4 @@
+{
+    "for_google_playstore": true,
+    "after_version_code": 35
+}
